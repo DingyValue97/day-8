@@ -1,3 +1,7 @@
+.little {
+    font-size: 50px;
+    color: rgb(62, 246, 6);
+}
 .p{
     display: flex;
     background-color: aqua;
